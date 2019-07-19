@@ -12,4 +12,5 @@ date and time stamp（ここはasterisk二つ)
 卒業研究について
 ================
 
--   
+-Yの精度のグラフ -small clusterについての研究を行う
+-後にPDFとTノート図を作る -KPOINT 精度を確かめる
